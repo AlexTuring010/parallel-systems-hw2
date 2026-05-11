@@ -4,6 +4,11 @@ Two **OpenMP** exercises with full performance studies — serial vs. parallel r
 
 Second homework of the **Parallel Programming** course at the University of Athens (Department of Informatics & Telecommunications). Solo project.
 
+Part of a three-piece arc:
+1. [parallel-systems-hw1](https://github.com/AlexTuring010/parallel-systems-hw1) — pthread
+2. **parallel-systems-hw2** *(you are here)* — OpenMP
+3. [parallel-systems-hw3](https://github.com/AlexTuring010/parallel-systems-hw3) — MPI
+
 ## Exercise 1 — Conway's Game of Life
 
 A classical parallelization: each generation computes the next from the current grid by inspecting 8-neighbourhoods. Serial baseline + an OpenMP-parallel version compared across grid sizes (512, 1024) and thread counts.
