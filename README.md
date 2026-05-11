@@ -1,8 +1,8 @@
-# parallel-systems-hw3
+# parallel-systems-hw2
 
 Two **OpenMP** exercises with full performance studies — serial vs. parallel runtimes across grid sizes and thread counts, plus a deep comparison of OpenMP scheduling strategies on an irregularly-loaded numerical kernel.
 
-Third homework of the **Parallel Programming** course at the University of Athens (Department of Informatics & Telecommunications). Solo project.
+Second homework of the **Parallel Programming** course at the University of Athens (Department of Informatics & Telecommunications). Solo project.
 
 ## Exercise 1 — Conway's Game of Life
 
